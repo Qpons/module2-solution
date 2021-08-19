@@ -14,7 +14,6 @@ h1{
 
 .ptitle {
     float: right;
-    clear: left;
     border: 2px solid green;
     background-color: black;
     color: white;
